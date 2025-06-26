@@ -7,3 +7,4 @@
     - setup router for this application Layout > Header > {children} > Footer
     - add themecontext provider using shadcnUI to create dark and light mode in the application
     - created routes for application 
+- created a header component and added a toggle button to switch to dark and light theme using              themecontextprovided and usetheme component
