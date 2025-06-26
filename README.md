@@ -11,3 +11,5 @@
 - added dark mode and added transition for toggle button
 - install a tanstack/query for managing state of this application
     - setup tanstack/query and tanstack devtools 
+- setup Openweather API_KEY in application through open weather application 
+    - setup API of openweather in config file added BASE_URL + API_KEY + default parameters > Units and apiid
