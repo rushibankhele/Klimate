@@ -13,3 +13,5 @@
     - setup tanstack/query and tanstack devtools 
 - setup Openweather API_KEY in application through open weather application 
     - setup API of openweather in config file added BASE_URL + API_KEY + default parameters > Units and apiid
+    - created a types of the weather URL fetchData + getCurrentWeather + getForecast + Geocode
+    - created API to fetchData + getCurrentWeather + getForecast + Geocode
