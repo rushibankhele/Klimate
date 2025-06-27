@@ -17,3 +17,7 @@
     - created API to fetchData + getCurrentWeather + getForecast + Geocode
 
 - Created a custom hook to fetch the location data 
+- Setup a react query client 
+- Created weather loading skeleton (shimmer UI)
+- Created alert_box in any error occurs when user doesn't provide location access for the site 
+- Also handle the error when coordinates are not found 
