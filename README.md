@@ -15,3 +15,5 @@
     - setup API of openweather in config file added BASE_URL + API_KEY + default parameters > Units and apiid
     - created a types of the weather URL fetchData + getCurrentWeather + getForecast + Geocode
     - created API to fetchData + getCurrentWeather + getForecast + Geocode
+
+- Created a custom hook to fetch the location data 
